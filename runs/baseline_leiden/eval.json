@@ -1,0 +1,12 @@
+{
+ "method": "baseline_leiden",
+ "note": "leiden resolution=0.3",
+ "k": 9,
+ "spatial_coherence": 0.5894540951031482,
+ "chaos_um": 461.44076038661836,
+ "morans_I": 0.1578808308416559,
+ "silhouette": -0.021147705614566803,
+ "n_cells": 458983,
+ "repr_dim": 50,
+ "wall_sec": 238.7
+}

@@ -1,0 +1,12 @@
+{
+ "method": "baseline_smooth",
+ "note": "spatial kNN(k=15) smoothing + KMeans",
+ "k": 10,
+ "spatial_coherence": 0.8653672929587515,
+ "chaos_um": 85.35051331435187,
+ "morans_I": 0.6063011173152901,
+ "silhouette": -0.03520689532160759,
+ "n_cells": 458983,
+ "repr_dim": 980,
+ "wall_sec": 714.3
+}

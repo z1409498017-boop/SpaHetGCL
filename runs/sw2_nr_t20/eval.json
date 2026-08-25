@@ -1,0 +1,9 @@
+{
+ "method": "SpaHetGCL(tag=sw2_nr_t20)",
+ "k": 10,
+ "spatial_coherence": 0.5089687349330022,
+ "chaos_um": 24.39652035801829,
+ "morans_I": 0.478841986352757,
+ "silhouette": 0.16937072575092316,
+ "n_cells": 458983
+}

@@ -1,0 +1,9 @@
+{
+ "method": "SpaHetGCL(tag=abl_norecon_s2)",
+ "k": 10,
+ "spatial_coherence": 0.49990429199091135,
+ "chaos_um": 15.632859411400549,
+ "morans_I": 0.4777782401052861,
+ "silhouette": 0.156157448887825,
+ "n_cells": 458983
+}

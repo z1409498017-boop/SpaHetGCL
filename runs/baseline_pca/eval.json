@@ -1,0 +1,12 @@
+{
+ "method": "baseline_pca",
+ "note": "PCA(128)+KMeans",
+ "k": 10,
+ "spatial_coherence": 0.466914228033876,
+ "chaos_um": 263.814224366,
+ "morans_I": 0.08153915802333574,
+ "silhouette": -0.06680004298686981,
+ "n_cells": 458983,
+ "repr_dim": 128,
+ "wall_sec": 48.7
+}

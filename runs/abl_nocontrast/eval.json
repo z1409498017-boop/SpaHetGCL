@@ -1,0 +1,9 @@
+{
+ "method": "SpaHetGCL(tag=abl_nocontrast)",
+ "k": 10,
+ "spatial_coherence": 0.46336587597935175,
+ "chaos_um": 33.71586454541711,
+ "morans_I": 0.29752842395834583,
+ "silhouette": 0.42629092931747437,
+ "n_cells": 458983
+}

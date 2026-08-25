@@ -1,0 +1,12 @@
+{
+ "method": "baseline_ctcomp",
+ "note": "neighborhood celltype composition(k=15, 54 types) + KMeans",
+ "k": 10,
+ "spatial_coherence": 0.7585464260954393,
+ "chaos_um": 162.89678777984457,
+ "morans_I": 0.6331808270076287,
+ "silhouette": 0.04884880408644676,
+ "n_cells": 458983,
+ "repr_dim": 54,
+ "wall_sec": 26.0
+}
