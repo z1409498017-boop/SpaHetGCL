@@ -2,7 +2,7 @@
 
 **Neighbor-Contrastive Heterogeneous Graph Learning for Spatially Coherent Representation of Single-Cell Data**
 
-**Authors:** Zheng Zhao (AgentAlphaAGI) · Jiekai Wu (Independent Researcher)
+**Authors:** Zheng Zhao (AgentAlphaAGI)
 
 SpaHetGCL learns cell representations on spatial single-cell data by replacing the instance-discrimination positives of graph contrastive learning with *spatial-adjacency positives*: inside a heterogeneous graph transformer, every edge between physically adjacent cells (Delaunay triangulation of spatial coordinates) is defined as a positive pair. Training on a graph of 458,983 cells across nine human colonic sections (five cell lineages, fifty typed relations) raises Moran's I from 0.633 to 0.756 and spatial coherence from 0.765 to 0.862 relative to the strongest baseline, at roughly half the runtime and memory of the two-view instance-contrastive alternative.
 
@@ -145,6 +145,6 @@ Released under the MIT License. See [LICENSE](LICENSE).
 If you use this code or find the results useful, please cite the manuscript:
 
 ```
-Zheng Zhao, Jiekai Wu. Neighbor-Contrastive Heterogeneous Graph Learning for Spatially
+Zheng Zhao. Neighbor-Contrastive Heterogeneous Graph Learning for Spatially
 Coherent Representation of Single-Cell Data. [Journal], [year].
 ```
